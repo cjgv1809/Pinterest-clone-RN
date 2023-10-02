@@ -19,7 +19,7 @@ function ProfileScreen() {
             }}
             style={styles.image}
           />
-          <Text style={styles.title}>Tab Two</Text>
+          <Text style={styles.title}>Profile</Text>
           <Text style={styles.subtitle}>123 Followers | 1234 Following</Text>
         </View>
 

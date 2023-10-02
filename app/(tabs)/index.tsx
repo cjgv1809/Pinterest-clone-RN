@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import pins from "../../assets/data/pins";
 import MasonryList from "../../components/MasonryList";
 
@@ -7,5 +6,3 @@ function HomeScreen() {
 }
 
 export default HomeScreen;
-
-const styles = StyleSheet.create({});
